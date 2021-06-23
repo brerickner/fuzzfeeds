@@ -6,39 +6,29 @@ Fuzz Feeds is an IoT (Internet-of-things) integration system designed to put you
 
 ### FuzzFeeds Team :woman_technologist: :man_technologist: :man_technologist:
 FuzzFeeds team:
+Bre Rickner - [Github] (https://github.com/brerickner) / [LinkedIn](https://www.linkedin.com/in/brerickner)
+Sang Nguyen - [Github] (https://github.com/sang-nguy0920) / [LinkedIn](https://www.linkedin.com/in/sang-n-8666631a9)
+Justin Thurman - [Github] (https://github.com/Justin4587) / [LinkedIn](https://www.linkedin.com/in/justin-thurman-293942123/)
 
->**Sang Nguyen** 
->**Justin Thurman** ​
->**Bre Rickner**
-​
-Find our project landing page right here -> [MEOW](http://fuzzfeeds.tech "FuzzFeeds")
-
-Must include link to your deployed site, final project blog article, author(s) LinkedIn
+​[LANDING PAGE](http://fuzzfeeds.tech "FuzzFeeds")
+[Twitter](https://twitter.com/kiddy_rick)
 
 ## Related projects
+Adafruit Feather HUZZAH and breakout GPS board
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Please contact our associates at Holberton to get a custom installation guide.
 
-```bash
-pip install foobar
-```
 
 ## Usage
 
-```python
-import foobar
+Make sure device is turned on and running connection.py script that has your personal API keys coded in where specified to do so.
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For major changes, please contact our associates at Holberton Tulsa to help with customization.
 
-Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/
