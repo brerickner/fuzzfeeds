@@ -7,22 +7,26 @@ Fuzz Feeds is an IoT (Internet-of-things) integration system designed to put you
 ### FuzzFeeds Team :woman_technologist: :man_technologist: :man_technologist:
 FuzzFeeds team:
 Bre Rickner - [Github] (https://github.com/brerickner) / [LinkedIn](https://www.linkedin.com/in/brerickner)
+
+
 Sang Nguyen - [Github] (https://github.com/sang-nguy0920) / [LinkedIn](https://www.linkedin.com/in/sang-n-8666631a9)
+
+
 Justin Thurman - [Github] (https://github.com/Justin4587) / [LinkedIn](https://www.linkedin.com/in/justin-thurman-293942123/)
 
 ​[LANDING PAGE](http://fuzzfeeds.tech "FuzzFeeds")
+
+
 [Twitter](https://twitter.com/kiddy_rick)
 
 ## Related projects
 Adafruit Feather HUZZAH and breakout GPS board
 
 ## Installation
-
 Please contact our associates at Holberton to get a custom installation guide.
 
 
 ## Usage
-
 Make sure device is turned on and running connection.py script that has your personal API keys coded in where specified to do so.
 
 
