@@ -7,23 +7,27 @@ import serial
 ser = serial.Serial("/dev/ttyAMA0")  # Pi Serial Port
 ser.baudrate = 9600  # Baud rate
 ser.timeout = 0.5
-sleep = 2 # seconds to sleep between posts to the channel
+sleep = 2 # Seconds to sleep between posts to the channel
 
 key = 'XXXXXXXXXXXXXXXX'  # Thingspeak Write API Key
 msgdata = Message() # Message Instance
  
 # This Function will upload Latitude and Longitude values to the Thingspeak channel
 def upload_cloud():
-    temp = get_latitude(msgdata)
-    temp1 = get_longitude(msgdata)
-    params = urllib.urlencode({'field1': temp,'field2': temp1, 'key':key })
+    lat = get_latitude(msgdata) # From GPS_API.py
+    long = get_longitude(msgdata) # From GPS_API.py
+
+    lat = round(lat, 4) #Rounds lat for readability
+    long = round(long, 4) #Rounds long for readability
+
+    params = urllib.urlencode({'field1': lat,'field2': long, 'key':key })
     headers = {"Content-typZZe": "application/x-www-form-urlencoded","Accept" : "text/plain"}
     conn = httplib.HTTPConnection("api.thingspeak.com:80")
     try:
         conn.request("POST", "/update", params, headers)
         response = conn.getresponse()
-        print("Lat:",temp)
-        print("Long:",temp1)
+        print("Lat:",lat)
+        print("Long:",long)
         print(response.status, response.reason)
         data = response.read()
         conn.close()
