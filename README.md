@@ -5,9 +5,9 @@
 Fuzz Feeds is an IoT (Internet-of-things) integration system designed to put your pets on the map, literally or figuratively through acting on data received by the pet’s wearable IoT device.
 
 ### FuzzFeeds Team :woman_technologist: :man_technologist: :man_technologist:
-> Bre Rickner - [Github] (https://github.com/brerickner) / [LinkedIn](https://www.linkedin.com/in/brerickner)  
-Sang Nguyen - [Github] (https://github.com/sang-nguy0920) / [LinkedIn](https://www.linkedin.com/in/sang-n-8666631a9)  
-Justin Thurman - [Github] (https://github.com/Justin4587) / [LinkedIn](https://www.linkedin.com/in/justin-thurman-293942123/)
+> Bre Rickner - [Github](https://github.com/brerickner) / [LinkedIn](https://www.linkedin.com/in/brerickner)  
+Sang Nguyen - [Github](https://github.com/sang-nguy0920) / [LinkedIn](https://www.linkedin.com/in/sang-n-8666631a9)  
+Justin Thurman - [Github](https://github.com/Justin4587) / [LinkedIn](https://www.linkedin.com/in/justin-thurman-293942123/)
 
 ​[LANDING PAGE](http://fuzzfeeds.tech "FuzzFeeds")  
 [Twitter](https://twitter.com/kiddy_rick)  
