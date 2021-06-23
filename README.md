@@ -4,10 +4,12 @@
 ## Introduction
 Fuzz Feeds is an IoT (Internet-of-things) integration system designed to put your pets on the map, literally or figuratively through acting on data received by the pet’s wearable IoT device.
 
-FuzzFeeds Team:
+### FuzzFeeds Team :woman_technologist: :man_technologist: :man_technologist:
+FuzzFeeds team:
+
 >**Sang Nguyen** 
-**Justin Thurman** ​
-**Bre Rickner**
+>**Justin Thurman** ​
+>**Bre Rickner**
 ​
 Find our project landing page right here -> [MEOW](http://fuzzfeeds.tech "FuzzFeeds")
 
