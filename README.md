@@ -32,7 +32,7 @@ Make sure device is turned on.
 
 
 ## Usage
-*  Assign preferences in ThinkSpeak allowing POST request to be made to Twitter on your behalf.
+*  Assign preferences in ThingSpeak allowing POST request to be made to Twitter on your behalf.
 *  Customize what data is collected and the responses made to the specified data collected.
 *  A shall we say, "smart-pet", sort of take. So smart, they're posting to Twitter!
 
