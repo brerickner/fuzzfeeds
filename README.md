@@ -15,11 +15,13 @@ Justin Thurman - [Github](https://github.com/Justin4587) / [LinkedIn](https://ww
 
 [Twitter](https://twitter.com/kiddy_rick)  
 
-## Related projects
-Adafruit Feather HUZZAH and breakout GPS board
+## Hardware Components Used For This Project
+*  Adafruit Feather HUZZAH
+*  RaspberryPi
+*  Breakout GPS board
 
-## Installation
-Please contact our associates at Holberton to get a custom installation guide.
+## Hardware Requirements
+A IoT device known as a microcontroller(eg. raspberryPi or Arduino Feather Huzzah) that has WiFi capabilities in addition to a breakout GPS chip for collectiong coordinates.
 
 
 ## Usage
@@ -27,8 +29,8 @@ Make sure device is turned on and running connection.py script that has your per
 
 
 ## Contributing
-Pull requests are welcome. For major changes, please contact our associates at Holberton Tulsa to help with customization.
+stay tuned for further contributions.
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/
+[MIT](https://choosealicense.com/licenses/mit/)
