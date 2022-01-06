@@ -28,7 +28,7 @@ Make sure device is turned on.
 
 ## Software Requirements
 1.  RaspberryPi locally ---> Python <i>connection</i> script.
-2.  Registered ThinkSpeak account for API access.
+2.  Registered ThingSpeak account for API access.
 
 
 ## Usage
