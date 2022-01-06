@@ -13,7 +13,6 @@ Fuzz Feeds is an IoT (Internet-of-things) integration system designed to put you
 Sang Nguyen - [Github](https://github.com/sang-nguy0920) / [LinkedIn](https://www.linkedin.com/in/sang-n-8666631a9)  
 Justin Thurman - [Github](https://github.com/Justin4587) / [LinkedIn](https://www.linkedin.com/in/justin-thurman-293942123/)
 
-​[LANDING PAGE](http://fuzzfeeds.tech "FuzzFeeds")  
 [Twitter](https://twitter.com/kiddy_rick)  
 
 ## Related projects
