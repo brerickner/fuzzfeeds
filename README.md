@@ -23,13 +23,18 @@ Justin Thurman - [Github](https://github.com/Justin4587) / [LinkedIn](https://ww
 ## Hardware Requirements
 A IoT device known as a microcontroller(eg. raspberryPi or Arduino Feather Huzzah) that has WiFi capabilities in addition to a breakout GPS chip for collectiong coordinates.
 
+Make sure device is turned on.
+
+
+## Software Requirements
+1.  RaspberryPi locally ---> Python <i>connection</i> script.
+2.  Registered ThinkSpeak account for API access.
+
 
 ## Usage
-Make sure device is turned on and running connection.py script that has your personal API keys coded in where specified to do so.
-
-
-## Contributing
-stay tuned for further contributions.
+*  Assign preferences in ThinkSpeak allowing POST request to be made to Twitter on your behalf.
+*  Customize what data is collected and the responses made to the specified data collected.
+*  A shall we say, "smart-pet", sort of take. So smart, they're posting to Twitter!
 
 
 ## License
