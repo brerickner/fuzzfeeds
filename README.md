@@ -1,7 +1,11 @@
-# FuzzFeeds	:cat2:
+<a href="https://github.com/brerickner/">
+    <img src="bre_favi.png" alt="Bre" title="Bre's Github" align="right" height="60" />
+</a>
+
+#  FuzzFeeds  
 ![FuzzFeeds](orange_logo.png)
 
-## Introduction
+## Introduction :cat2:
 Fuzz Feeds is an IoT (Internet-of-things) integration system designed to put your pets on the map, literally or figuratively through acting on data received by the pet’s wearable IoT device.
 
 **Screenshot:**  
