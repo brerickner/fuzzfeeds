@@ -25,7 +25,11 @@
 <p align="center"><img src="present.png" alt="FuzzFeeds Demo Presentation" title="FuzzFeeds Team on Demo Day" width="600">
 </p>
 
-`Fuzz Feeds is an IoT (Internet-of-things) integration system designed to put your pets on the map, literally or figuratively through acting on data received by the pet’s wearable IoT device.`
+`Fuzz Feeds is an IoT (Internet-of-things) integration system designed to put your pets on the map, figuratively speaking.`
+
+`Like, literally!`  
+  
+`Customize which figures of speech your pet will tweet in response to the latitude and longitude coordinates collected from their wearable 'FuzzFeeds' device`
 
 ## :busts_in_silhouette: FuzzFeeds Team
 > :woman_technologist: Bre Rickner - [Github](https://github.com/brerickner) / [LinkedIn](https://www.linkedin.com/in/brerickner)  
