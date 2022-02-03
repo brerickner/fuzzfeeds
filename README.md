@@ -4,7 +4,7 @@
 
 #  FuzzFeeds  
 <p align="center">
-<a href="https://github.com/brerickner/fuzzfeeds"><img src="orange_logo.png" alt="fuzz-feeds"></a>
+<a href="https://github.com/brerickner/fuzzfeeds"><img src="orange_logo.png" alt="fuzz-feeds" width="200"</a>
 </p>  
 
 ## Introduction :cat2:
