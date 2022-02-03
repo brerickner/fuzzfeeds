@@ -44,9 +44,9 @@ What's required:
 
 ### FuzzFeeds Hardware List:
 
-*  [Adafruit Feather HUZZAH](https://www.adafruit.com/product/2821)
-*  [Raspberry Pi Zero](https://www.raspberrypi.com/products/raspberry-pi-zero/)
-*  [GPS Breakout Board](https://www.adafruit.com/product/746)
+> *  [Adafruit Feather HUZZAH](https://www.adafruit.com/product/2821)
+> *  [Raspberry Pi Zero](https://www.raspberrypi.com/products/raspberry-pi-zero/)
+> *  [GPS Breakout Board](https://www.adafruit.com/product/746)
 
 ## :floppy_disk: Software Components
 1. [GPS_API.py]("https://github.com/brerickner/fuzzfeeds/blob/master/gps_pi/GPS_API.py")
