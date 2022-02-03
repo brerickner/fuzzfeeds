@@ -62,16 +62,16 @@ What's required:
 2. Activate "smart-pet" device by turning on physical device then waiting for the device to get a 'fix'(light will slow blink).
 3. Once device has a 'fix', you can run the **_connections.py_** script from within **gps_pi** directory, like so:
 
-> ```sh
-> # Move to inside the 'gps_pi' directory
-> $ cd gps-pi/
-> 
-> # Run program continuously while tracking pet
-> $ ./connections.py
-> 
-> # Exit the program
-> $ (Ctrl + C)
-> ```
+```sh
+# Move to inside the 'gps_pi' directory
+$ cd gps-pi/
+
+# Run program continuously while tracking pet
+$ ./connections.py
+
+# Exit the program
+$ (Ctrl + C)
+```
 
 4. Gather the latitude and longitude values of your pets favorite locations.
 5. In ThingSpeak, program *trigger* to *tweet* whenever your pets 'FuzzFeeds' device registers being at those coordinates.
