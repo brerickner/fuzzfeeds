@@ -60,16 +60,17 @@ What's required:
 ## :iphone: Usage
 1.  Assign preferences in ThingSpeak allowing POST request to be made to Twitter on your pets behalf. This can be done simply by asking for your pets consent to post on their behalf :smile_cat:
 2. Activate "smart-pet" device by turning on physical device then waiting for the device to get a 'fix'(light will slow blink).
-3. Once device has a 'fix', you can run the **_connections.py_** script from within **gps_pi** directory, like so:
-    - ```sh
-    - # Move to inside the 'gps_pi' directory
-    - $ cd gps-pi/
+3. Once device has a 'fix', you can run the **_connections.py_** script from within **gps_pi** directory, like so:  
+  
+    ```sh
+    # Move to inside the 'gps_pi' directory
+    $ cd gps_pi  
 
-    - # Run program continuously while tracking pet
-    - $ ./connections.py
+    # Run program continuously while tracking pet
+    $ ./connections.py  
 
-    - # Exit the program
-    - $ (Ctrl + C)
+    # Exit the program
+    $ (Ctrl + C)
 ```
 
 4. Gather the latitude and longitude values of your pets favorite locations.
