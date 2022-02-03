@@ -2,7 +2,6 @@
     <img src="bre_favi.png" alt="Bre" title="Bre's Github" align="right" height="60" />
 </a>
 
-#  FuzzFeeds  
 <p align="center">
 <a href="https://github.com/brerickner/fuzzfeeds">
     <img src="orange_logo.png" alt="fuzz-feeds" width="250" height="200"></a>
@@ -21,6 +20,8 @@
 <a href="#features--rocket">Features</a> •
 <a href="#licensescroll">License</a>
 </p>
+#  FuzzFeeds  
+
 
 <p align="center"><img src="present.png" alt="FuzzFeeds Demo Presentation" title="FuzzFeeds Team on Demo Day" width="600">
 </p>
