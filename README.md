@@ -49,17 +49,19 @@ What's required:
 > *  [GPS Breakout Board](https://www.adafruit.com/product/746)
 
 ## :floppy_disk: Software Components
-1. [GPS_API.py]("https://github.com/brerickner/fuzzfeeds/blob/master/gps_pi/GPS_API.py")
+1. [GPS_API.py](https://github.com/brerickner/fuzzfeeds/blob/master/gps_pi/GPS_API.py)
     - This File consists of API calls for the GPS Parsing Functionality
-2.  [connections.py]("https://github.com/brerickner/fuzzfeeds/blob/master/gps_pi/connections.py") 
+2.  [connections.py](https://github.com/brerickner/fuzzfeeds/blob/master/gps_pi/connections.py) 
     - This script uploads Latitude and Longitude values to the Thingspeak cloud storage
+3. [ThingSpeak](https://thingspeak.com/)
+    - Sends microcontroller's GPS data privately to ThingSpeak cloud, where it is analyzed with MATLAB before triggering a reaction.
 
 
 ## :iphone: Usage
-*  Assign preferences in ThingSpeak allowing POST request to be made to Twitter on your behalf.
-*  Customize what data is collected and the responses made in response to specific data collected.
-* Activate "smart-pet" device by turning on physical device then waiting for the device to get a 'fix'(light will slow blink).
-* Once device has a 'fix', you can run the **_connections.py_** script from within **gps_pi** directory, like so:  
+1.  Assign preferences in ThingSpeak allowing POST request to be made to Twitter on your pets behalf. This can be done simply by asking for your pets consent to post on their behalf :smile_cat:
+2. Activate "smart-pet" device by turning on physical device then waiting for the device to get a 'fix'(light will slow blink).
+3. Once device has a 'fix', you can run the **_connections.py_** script from within **gps_pi** directory, like so:
+
 ```sh
 # Move to inside the 'gps_pi' directory
 $ cd gps-pi/
@@ -70,6 +72,11 @@ $ ./connections.py
 # Exit the program
 $ (Ctrl + C)
 ```
+
+4. Gather the latitude and longitude values of your pets favorite locations.
+5. In ThingSpeak, program *trigger* to *tweet* whenever your pets 'FuzzFeeds' device registers being at those coordinates.
+ 
+
 
 
 ## :scroll: License
