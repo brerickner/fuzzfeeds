@@ -20,8 +20,8 @@
 <a href="#features--rocket">Features</a> •
 <a href="#licensescroll">License</a>
 </p>
-#  FuzzFeeds  
 
+#  FuzzFeeds  
 
 <p align="center"><img src="present.png" alt="FuzzFeeds Demo Presentation" title="FuzzFeeds Team on Demo Day" width="600">
 </p>
