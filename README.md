@@ -31,7 +31,7 @@
   
 `Customize which figures of speech your pet will tweet in response to the latitude and longitude coordinates collected from their wearable 'FuzzFeeds' device`
 
-## :busts_in_silhouette::cat2: FuzzFeeds Team
+## :busts_in_silhouette: FuzzFeeds Team
 > :woman_technologist: Bre Rickner - [Github](https://github.com/brerickner) / [LinkedIn](https://www.linkedin.com/in/brerickner)  
 > :man_technologist: Sang Nguyen - [Github](https://github.com/sang-nguy0920) / [LinkedIn](https://www.linkedin.com/in/sang-n-8666631a9)  
 > :man_technologist:
