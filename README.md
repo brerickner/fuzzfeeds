@@ -38,11 +38,11 @@
 Justin Thurman - [Github](https://github.com/Justin4587) / [LinkedIn](https://www.linkedin.com/in/justin-thurman-293942123/)  
 >:cat2: Kiddy Rick -------------------> [Twitter](https://twitter.com/kiddy_rick)  
 
-## :pager: Hardware
+## :pager: Hardware Components
 What's required:  
 - An IoT device, such as a microcontroller, with WiFi capabilities, plus the ability to collect and output GPS data via standard NMEA string.
 
-### FuzzFeeds Hardware List:
+### Hardware List:
 
 > *  [Adafruit Feather HUZZAH](https://www.adafruit.com/product/2821)
 > *  [Raspberry Pi Zero](https://www.raspberrypi.com/products/raspberry-pi-zero/)
