@@ -25,7 +25,7 @@
 <p align="center"><img src="present.png" alt="FuzzFeeds Demo Presentation" title="FuzzFeeds Team on Demo Day" width="600">
 </p>
 
-`Fuzz Feeds is an IoT (Internet-of-things) integration system designed to put your pets on the map, figuratively speaking.`
+`Fuzz Feeds is an IoT (Internet-of-things) integration system designed to put your pets on the map`
 
 `Like, literally!`  
   
